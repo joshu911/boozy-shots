@@ -73,9 +73,9 @@ export default function ContactPage() {
                     <div>
                       <p className="font-medium text-primary">Address</p>
                       <p className="text-muted-foreground">
-                        123 Elegant Street
+                        Maasai Square
                         <br />
-                        Downtown District, City 12345
+                        Maasai Lodge Road, Ongata Rongai
                       </p>
                     </div>
                   </div>
@@ -85,10 +85,10 @@ export default function ContactPage() {
                     <div>
                       <p className="font-medium text-primary">Phone</p>
                       <a
-                        href="tel:+1234567890"
+                        href="tel:+254716007410"
                         className="text-muted-foreground hover:text-[var(--warm-gold)] transition-colors"
                       >
-                        (123) 456-7890
+                        (+254) 716007410
                       </a>
                     </div>
                   </div>
